@@ -6,15 +6,15 @@ const sendEmail = async(options)=>{
     //     port:465,
     //     service:"gmail",
     //     auth:{
-    //         user:"testmailuseless808@gmail.com",
-    //         pass:"mohithkumar808",
+    //         user:"fromMailHere",
+    //         pass:"passwordHere",
     //     },
 
     // });
 
     // const mailOptions={
-    //     form:"testmailuseless808@gmail.com",
-    //     to:"murugan28aug@gmail.com",
+    //     form:"fromMailhere",
+    //     to:"toMailhere",
     //     subject:"hiiiiii",
     //     text:"heloooooooooo",
     // };
